@@ -44,4 +44,4 @@
 
 #### 2.2 智能代理系统
 
-+ [An Intelligent Agentic System for Complex Image Restoration Problems](https://arxiv.org/abs/2406.08177)(AgenticIR, 2024-10-23, ICLR2025) [![Code](https://img.shields.io/github/stars/Kaiwen-Zhu/AgenticIR.svg?style=social&label=Official)](https://github.com/Kaiwen-Zhu/AgenticIR)
++ [An Intelligent Agentic System for Complex Image Restoration Problems](https://arxiv.org/abs/2410.17809)(AgenticIR, 2024-10-23, ICLR2025) [![Code](https://img.shields.io/github/stars/Kaiwen-Zhu/AgenticIR.svg?style=social&label=Official)](https://github.com/Kaiwen-Zhu/AgenticIR)
